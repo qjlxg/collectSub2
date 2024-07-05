@@ -1,7 +1,3 @@
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://kiadownload10.vpscompanyrado.top/sub/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJpRnJlZVYyUmF5IiwiYWNjZXNzIjoic3Vic2NyaXB0aW9uIiwiaWF0IjoxNzE5NzQ3MzI3fQ.TjDyoJCE6wL6ZOzAOH0CA4V3LoJbxg5bZAfPuMvPfKM
-https://d.palu123.com/apk/go/client/banzou?token=97e454f284433a384e3c27449ac9412d
-https://www.kuaidog006.top/api/v1/client/subscribe?token=f3f5ddb20115471918b347c9e3dbc95a
-http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
-https://cloud.gyyun.top/api/v1/client/subscribe?token=21f9b17f63a629677d84f9173e4ec048
+https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://cloud.gyyun.top/api/v1/client/subscribe?token=569e0cf2bc421b70e7df67a4740fcc56
