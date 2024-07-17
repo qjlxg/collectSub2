@@ -1,1 +1,2 @@
 https://api.ssrsub.com/api/v1/client/subscribe?token=31cf50bb67f27e40ab48132723b2ae19
+https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
