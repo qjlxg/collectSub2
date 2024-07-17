@@ -1,2 +1,8 @@
-https://api.ssrsub.com/api/v1/client/subscribe?token=31cf50bb67f27e40ab48132723b2ae19
-https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
+https://lzysub.online/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
+https://www.huaxia.cyou/api/v1/client/subscribe?token=4945d6850798add3a99bde689a75ede4
+https://www.m2net.cc/api/v1/client/subscribe?token=459d246732df512914e547af17c399e1
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://www.m2net.cc/api/v1/client/subscribe?token=86180e59e53f9dec5c29135c027fabe4
+https://www.m2net.cc/api/v1/client/subscribe?token=c733c6040b437031285078ca216341a9
+https://www.m2net.cc/api/v1/client/subscribe?token=f3297bf01fe1d5a4b9da4d202e7688fd
+https://www.m2net.cc/api/v1/client/subscribe?token=fc4605bd87cb10cbc1781f3b8270e574
