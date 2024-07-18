@@ -1,9 +1,9 @@
-https://lzysub.online/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
-https://www.m2net.cc/api/v1/client/subscribe?token=19fac1c1191a9f4bcb93f2216530541e
-https://www.m2net.cc/api/v1/client/subscribe?token=5244640d572147064123eb4bf0b1adb5
-https://www.m2net.cc/api/v1/client/subscribe?token=a31d39fbbdc44fad8682bda12329f458
+https://sub.marsix.cc/api/v1/client/subscribe?token=63f0d98267f4fd62ccc154cbda0a89bb
+https://www.m2net.cc/api/v1/client/subscribe?token=207c25bc1601e835b0be770c50305797
+https://www.m2net.cc/api/v1/client/subscribe?token=3d17bddce09954c054eca1dd3b319d83
+https://www.m2net.cc/api/v1/client/subscribe?token=5b61218ff6883d658c6dc0d2444fdba2
 https://www.m2net.cc/api/v1/client/subscribe?token=b06613bc8ec3a3bdccac22b8ed96e23f
-https://www.m2net.cc/api/v1/client/subscribe?token=e741186ba7330ae21fd01ad4c3bf1000
-https://www.m2net.cc/api/v1/client/subscribe?token=f3dcd22f0d689f325c3a87cecb6bfdcd
-https://xfsnet.com/api/v1/client/subscribe?token=08ad859f0ecac8ff492572be6841ea3e
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://www.m2net.cc/api/v1/client/subscribe?token=c6673a8a293780152a151cce98e5c573
+https://www.m2net.cc/api/v1/client/subscribe?token=e9572bdd7141c0e446c5e5411ac8a89c
+https://www.m2net.cc/api/v1/client/subscribe?token=dd085be76570d71042e8a817b0b7b145
+https://xfsnet.com/api/v1/client/subscribe?token=55d0263af3b9c9837a2d534e2753d67d
