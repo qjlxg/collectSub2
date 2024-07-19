@@ -1,9 +1,8 @@
-https://api.ssrsub.com/api/v1/client/subscribe?token=31cf50bb67f27e40ab48132723b2ae19
-https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=e0e066b5e6ea55ac90d704031505df2c&amp;flag=meta
-https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=a4bb2d2a253a62b0a105b92ee4aa8e18&amp;flag=meta
-https://www.m2net.cc/api/v1/client/subscribe?token=2fd5200f7b9cb10aa61decf3ae83700d
-https://www.m2net.cc/api/v1/client/subscribe?token=4e3451ba22e51e30ead225d99f8e753d
-https://www.m2net.cc/api/v1/client/subscribe?token=60d7fbd843ba4bb38dae2475b2e3d864
-https://www.m2net.cc/api/v1/client/subscribe?token=b6794f1038c56c13d07d50a2ecd22a68
-https://www.m2net.cc/api/v1/client/subscribe?token=e741186ba7330ae21fd01ad4c3bf1000
-https://www.m2net.cc/api/v1/client/subscribe?token=f00dc9d2ce4941ed7e7beb90c762adde
+https://sub1.tg-mfjd666.cloudns.be/api/v1/client/subscribe/token=598adee7147c414593f29c74cfade831f4d95313f786bb749ca643ea23bb0fd3
+https://sub.marsix.cc/api/v1/client/subscribe?token=63f0d98267f4fd62ccc154cbda0a89bb
+https://www.m2net.cc/api/v1/client/subscribe?token=2a4e7c61239f1bfe7be71c273ad75b5e
+https://www.m2net.cc/api/v1/client/subscribe?token=459d246732df512914e547af17c399e1
+https://www.m2net.cc/api/v1/client/subscribe?token=432faecf5a552a731f516f0dba1a0437
+https://www.m2net.cc/api/v1/client/subscribe?token=a31d39fbbdc44fad8682bda12329f458
+https://www.m2net.cc/api/v1/client/subscribe?token=d32fe50279bbb7de58deedb5332f38dc
+https://xfsnet.com/api/v1/client/subscribe?token=b6604f287cdf8e5665ebc7393755cae6
