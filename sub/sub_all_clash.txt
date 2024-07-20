@@ -1,8 +1,8 @@
-https://sub1.tg-mfjd666.cloudns.be/api/v1/client/subscribe/token=598adee7147c414593f29c74cfade831f4d95313f786bb749ca643ea23bb0fd3
-https://sub.marsix.cc/api/v1/client/subscribe?token=63f0d98267f4fd62ccc154cbda0a89bb
 https://www.m2net.cc/api/v1/client/subscribe?token=2a4e7c61239f1bfe7be71c273ad75b5e
-https://www.m2net.cc/api/v1/client/subscribe?token=459d246732df512914e547af17c399e1
+https://jp.taishan1.pro/api/v1/client/subscribe?token=decbd7dd37b24d65a43b4bf05da2cdf9
 https://www.m2net.cc/api/v1/client/subscribe?token=432faecf5a552a731f516f0dba1a0437
-https://www.m2net.cc/api/v1/client/subscribe?token=a31d39fbbdc44fad8682bda12329f458
-https://www.m2net.cc/api/v1/client/subscribe?token=d32fe50279bbb7de58deedb5332f38dc
-https://xfsnet.com/api/v1/client/subscribe?token=b6604f287cdf8e5665ebc7393755cae6
+https://www.m2net.cc/api/v1/client/subscribe?token=60e71ed43d0af7da677277696c54c821
+https://www.m2net.cc/api/v1/client/subscribe?token=8d50fefd3842118d938f0185c99ba9ca
+https://www.m2net.cc/api/v1/client/subscribe?token=cc5c589d1dfe05e75d6ae44c0d340557
+https://www.m2net.cc/api/v1/client/subscribe?token=f1ca3cf42ecfd5f246fb2c8bd0375f06
+https://www.m2net.cc/api/v1/client/subscribe?token=fc4605bd87cb10cbc1781f3b8270e574
