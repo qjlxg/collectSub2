@@ -1,10 +1,9 @@
 https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
-https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=a3fe37757d77f2e3b46036ef1aebf864
-https://link.esnclink.com/api/v1/client/subscribe?token=b75ce16c260df26917ea4397424c2d0d
-https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=3095392f2d99ea267601a6883fd66c79
-https://www.m2net.cc/api/v1/client/subscribe?token=aff9312647305e2ac68a889132faa0c5
-https://www.m2net.cc/api/v1/client/subscribe?token=432faecf5a552a731f516f0dba1a0437
-https://www.m2net.cc/api/v1/client/subscribe?token=c74592ce01b0feb9356dfc4c66e440c6
-https://www.m2net.cc/api/v1/client/subscribe?token=5244640d572147064123eb4bf0b1adb5
+https://api.haneda.lol/api/v1/client/subscribe?token=ff4e79401bce8c5dd6510c9620da77de&amp;flag=meta
+https://oiiccdn.yydsii.com/api/v1/client/subscribe?token=2fc5163731d3420a630e4e067b27f22c
+https://www.m2net.cc/api/v1/client/subscribe?token=c0d57828f31f19eefa21ea09c375f50c
+https://www.m2net.cc/api/v1/client/subscribe?token=b6794f1038c56c13d07d50a2ecd22a68
+https://www.m2net.cc/api/v1/client/subscribe?token=3ce309d07499fe6e9b0126943a1a66c7
+https://www.m2net.cc/api/v1/client/subscribe?token=e4fea8827c3a5cc3af166c7fa2c5eeff
 https://www.m2net.cc/api/v1/client/subscribe?token=53f7348683583c3d253c960cbababe22
-https://www.huaxia.cyou/api/v1/client/subscribe?token=92f8ec28e23a2076e22d8d0bd5e6c5b3
+https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=d12e9b25c3d29f8722e418fd0c286af2
