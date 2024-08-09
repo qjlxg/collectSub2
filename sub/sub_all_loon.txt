@@ -1,10 +1,5 @@
-https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
-https://shop.zedping6.shop:2096/sub/WmVkcGluZy5yYXlnYW4sMTcyMjg4MTc1NgTJXs9bTGtQ
+https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
 https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
-https://sub.marsix.cc/api/v1/client/subscribe?token=63f0d98267f4fd62ccc154cbda0a89bb
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://www.m2net.cc/api/v1/client/subscribe?token=fc4605bd87cb10cbc1781f3b8270e574
-https://www.m2net.cc/api/v1/client/subscribe?token=543dcf80ef49fdebeaa2d8b9adf02128
-https://www.m2net.cc/api/v1/client/subscribe?token=2a8f6383cce62663c51a5809405ddd77
-https://www.huaxia.cyou/api/v1/client/subscribe?token=35c30ea0c21fa448b540e2cb3de225ff
-https://www.huaxia.cyou/api/v1/client/subscribe?token=92f8ec28e23a2076e22d8d0bd5e6c5b3
+https://api.haneda.lol/api/v1/client/subscribe?token=3283f46dcee7633257698b1281ea8dce&amp;flag=meta
+https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=1b6d7e703d683feb3b4c6c78d67a7fb4
+https://sub.marsix.cc/api/v1/client/subscribe?token=dea7a8cb1499eb7b61c627049a9c2493
