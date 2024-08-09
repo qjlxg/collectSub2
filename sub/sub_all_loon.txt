@@ -1,8 +1,10 @@
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://lzysub.online/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
-https://OutlineKeysRobot.outlinekeys.net/sub/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4WFdLZF9zZ3JFIiwiYWNjZXNzIjoic3Vic2NyaXB0aW9uIiwiaWF0IjoxNzIyODQwMjE4fQ.HZk8i6S9AiSa6Qix832O2H4s9e2xFYPPiSSTefhfC9A
-https://www.m2net.cc/api/v1/client/subscribe?token=3d17bddce09954c054eca1dd3b319d83
-https://www.m2net.cc/api/v1/client/subscribe?token=2c4f010020451fd426460995b0a19490
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+https://shop.zedping6.shop:2096/sub/WmVkcGluZy5yYXlnYW4sMTcyMjg4MTc1NgTJXs9bTGtQ
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://sub.marsix.cc/api/v1/client/subscribe?token=63f0d98267f4fd62ccc154cbda0a89bb
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://www.m2net.cc/api/v1/client/subscribe?token=fc4605bd87cb10cbc1781f3b8270e574
+https://www.m2net.cc/api/v1/client/subscribe?token=543dcf80ef49fdebeaa2d8b9adf02128
 https://www.m2net.cc/api/v1/client/subscribe?token=2a8f6383cce62663c51a5809405ddd77
-https://www.huaxia.cyou/api/v1/client/subscribe?token=6046f984ba0731de4b7affd328bee8ef
+https://www.huaxia.cyou/api/v1/client/subscribe?token=35c30ea0c21fa448b540e2cb3de225ff
 https://www.huaxia.cyou/api/v1/client/subscribe?token=92f8ec28e23a2076e22d8d0bd5e6c5b3
